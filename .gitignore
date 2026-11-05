@@ -1,0 +1,5 @@
+# Exclude (exported CurseForge) zip files in root directory
+/*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
