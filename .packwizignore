@@ -3,6 +3,7 @@
 
 # Exclude README
 /README.md
+/todo.md
 
 # Exclude github file
 .nojekyll

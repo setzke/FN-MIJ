@@ -733,6 +733,14 @@ file = "config/cutthrough-client.toml"
 hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "c4ef4261a67fb82513ab7867611a95d306d49722fdbe39313b5cb4b5e2dfe3af"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "879993856552e7f8385b49b24415485154c4e460d09b66b804c51ef52f875582"
+
+[[files]]
 file = "config/delightful-common.toml"
 hash = "b0f3f5c4c450091c30a23dff767a7480d76575a7f51765d8c32e54f683c121fe"
 
@@ -2939,6 +2947,18 @@ hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 [[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/mij.png"
+hash = "cef8fdc5b7cb9c3702aa037c568ddb46535b130a7940f0862d021295729eac9b"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "b026e8505ae1ebb048793aa703b36d42887a7755862a95d0b8278f452b9a85f6"
+
+[[files]]
+file = "configureddefaults/config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "defaultconfigs/CoroUtil/General.toml"
@@ -5873,6 +5893,11 @@ hash = "02de249b5b9b7e3f21529a707d61e620fd69b4b614fae8c6d72d9e6b87afc7a0"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "a19fa227e9baf47923e36172980da677cce85487dc639c7925c28743da60d23a"
+metafile = true
+
+[[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "6c910a1b60b4b4b8446c1f9bf728e0846342a797b53b98f63d6c5dd69a868264"
 metafile = true
@@ -6330,6 +6355,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
+
+[[files]]
+file = "mods/loading-backgrounds.pw.toml"
+hash = "e0dc30f83e5ff0b82a6c79ccee3bd13259e272a31b4dd60933563d182214c61f"
 metafile = true
 
 [[files]]
@@ -7049,6 +7079,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cassette-music-disc-countxd.pw.toml"
 hash = "b6ba139be15f99ad7c289d5ab064e67c6e799936bc40eed12d27d2f953134839"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-fantasy-loading-screens.pw.toml"
+hash = "c6cfa010c3bde5f1bb9441ca3977bc8988734b70bd2defe5ef7d83f2c5e5a31f"
 metafile = true
 
 [[files]]

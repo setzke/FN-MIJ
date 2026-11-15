@@ -1,0 +1,13 @@
+name = "Dark Fantasy Loading Screens"
+filename = "loadingbackgrounds.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65d6c1d11a385a7e3ba3c097855edd8230789573"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6360039
+project-id = 1210822
