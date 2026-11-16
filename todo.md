@@ -11,6 +11,8 @@ Add: Traveler's Titles
 
 clean out better chunklosding before voxy/dh
 
+If options works now, can remove DEFAULT OPTIONS
+
 
 jei setting (investigate)
 

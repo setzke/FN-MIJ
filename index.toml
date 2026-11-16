@@ -733,14 +733,6 @@ file = "config/cutthrough-client.toml"
 hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "2e5da548274ad8f243aef91e311760f252870709fb5ccf9015c402a316e3970c"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "ca26983bd31b7ad77f58fd5d13101c01df61df796ac2f4d519812d0af99b340f"
-
-[[files]]
 file = "config/delightful-common.toml"
 hash = "b0f3f5c4c450091c30a23dff767a7480d76575a7f51765d8c32e54f683c121fe"
 
@@ -7040,6 +7032,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ac4c2855445ed69925e84a7296941e98003fbe89c48cd2f0dde3102f7be1ba06"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
