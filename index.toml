@@ -734,7 +734,7 @@ hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ac4c2855445ed69925e84a7296941e98003fbe89c48cd2f0dde3102f7be1ba06"
+hash = "1e3655f417930437a8073d15668b4455e73918444c9e6afa266a662dc655d23c"
 
 [[files]]
 file = "config/delightful-common.toml"
