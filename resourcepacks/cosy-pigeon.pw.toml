@@ -1,0 +1,13 @@
+name = "Cosy pigeon"
+filename = "Cosy pigeon.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54c2dc9342d581e941e6e014932ac0cb26500761"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9271866
+project-id = 1756733

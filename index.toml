@@ -2949,6 +2949,10 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
+file = "configureddefaults/config/cosycritters.json"
+hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/assets/mij.png"
 hash = "cef8fdc5b7cb9c3702aa037c568ddb46535b130a7940f0862d021295729eac9b"
 
@@ -5803,6 +5807,11 @@ hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
 metafile = true
 
 [[files]]
+file = "mods/cosy-critters.pw.toml"
+hash = "d851a0089c8ffa3b48305ebf68534043c8613226ae973cc26d53b911188ccb30"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "5c5689bec7092b41ff3d8b225a84e48d0ee9f25541503df35c9a406bdc4aebfb"
 metafile = true
@@ -6388,6 +6397,11 @@ hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
+metafile = true
+
+[[files]]
 file = "mods/luna.pw.toml"
 hash = "b25006e2ef56ba2636dec579354bacec458073feceba5e79e160dcd206aa2b1f"
 metafile = true
@@ -6695,6 +6709,11 @@ metafile = true
 [[files]]
 file = "mods/sanity-descent-into-madness-resync.pw.toml"
 hash = "de8470cbfb375433e8e682ff74ee6408fc102c9493211b53e1b216b1b4d32b0b"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "4fd48a95f80ef2750113a9d15e20dbde28d3c6c597b6755916cf3972ac612692"
 metafile = true
 
 [[files]]
@@ -7079,6 +7098,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cassette-music-disc-countxd.pw.toml"
 hash = "b6ba139be15f99ad7c289d5ab064e67c6e799936bc40eed12d27d2f953134839"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cosy-pigeon.pw.toml"
+hash = "af548d03d4da94dca4d425364ecc688940e02296c176a1fca9b8c7ccc929715e"
 metafile = true
 
 [[files]]
