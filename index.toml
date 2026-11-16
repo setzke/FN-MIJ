@@ -733,7 +733,7 @@ file = "config/cutthrough-client.toml"
 hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
 
 [[files]]
-file = "config/defaultoptions/keybinds.txt"
+file = "config/defaultoptions/keybindings.txt"
 hash = "2e5da548274ad8f243aef91e311760f252870709fb5ccf9015c402a316e3970c"
 
 [[files]]
