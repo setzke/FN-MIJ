@@ -733,8 +733,12 @@ file = "config/cutthrough-client.toml"
 hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
 
 [[files]]
+file = "config/defaultoptions/keybinds.txt"
+hash = "2e5da548274ad8f243aef91e311760f252870709fb5ccf9015c402a316e3970c"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1e3655f417930437a8073d15668b4455e73918444c9e6afa266a662dc655d23c"
+hash = "ca26983bd31b7ad77f58fd5d13101c01df61df796ac2f4d519812d0af99b340f"
 
 [[files]]
 file = "config/delightful-common.toml"
