@@ -733,12 +733,8 @@ file = "config/cutthrough-client.toml"
 hash = "2dfca01b0ad9942ed5c6cede6fd043ca4adf912f5edee1857a39216f461b4a3b"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "c4ef4261a67fb82513ab7867611a95d306d49722fdbe39313b5cb4b5e2dfe3af"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "879993856552e7f8385b49b24415485154c4e460d09b66b804c51ef52f875582"
+hash = "71862bf263376ba49fabae0b129444a582c036efde179af1d88628b82cf3e427"
 
 [[files]]
 file = "config/delightful-common.toml"
@@ -6844,6 +6840,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "4b2933a18390fe4fc0efef26556413372a96a0f5ed639c713643ed8e49649c58"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "0e9bd4ab31b319014bb607077da74e8c4bf62fdbd2f15286ed2de0cfe3ce727b"
 metafile = true
 
 [[files]]
