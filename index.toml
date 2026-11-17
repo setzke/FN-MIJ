@@ -5609,11 +5609,6 @@ hash = "d7d858c17b9a93d3d380d0277e680e36afd13b80dacdd919672528b58dbe73c0"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "ff6e80179b630fa623ca932ecbf689f542aa578e20fe0eceb4fd3c7cc31eaaf9"
-metafile = true
-
-[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
@@ -5851,11 +5846,6 @@ metafile = true
 [[files]]
 file = "mods/deep-dark-regrowth.pw.toml"
 hash = "cb7cf046cc3edf51b45a40f38a4fd3fd6897b66b768eac8cb279580ddb7bd236"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "3e8187acf1eb48228597648ee3bee178123bef8ece1b3dac80144467747b647b"
 metafile = true
 
 [[files]]
@@ -7035,7 +7025,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ac4c2855445ed69925e84a7296941e98003fbe89c48cd2f0dde3102f7be1ba06"
+hash = "ef4db60c444f141b0bee9a4a063666478467e8594c5b51e864bae98db38753fd"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"

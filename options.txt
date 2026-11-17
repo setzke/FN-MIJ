@@ -260,7 +260,7 @@ key_key.ragdollifiedreactions.toggle:key.keyboard.unknown:NONE
 key_key.ragdollifiedpr.charge_aed:key.keyboard.r:ALT
 key_key.ftbteams.open_gui:key.keyboard.unknown:NONE
 key_key.ftbquests.quests:key.keyboard.unknown:NONE
-key_key.crawlondemand.toggle_crawl:key.keyboard.z:ALT
+key_key.crawlondemand.toggle_crawl:key.keyboard.z:SHIFT
 key_key.crawlondemand.crawl:key.keyboard.unknown:NONE
 key_key.hexcasting.spellbook_prev:key.keyboard.unknown:NONE
 key_key.hexcasting.spellbook_next:key.keyboard.unknown:NONE
