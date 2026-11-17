@@ -6884,6 +6884,16 @@ hash = "96068ecb5139efe0b352f5fe55b5ebde61186965253f169e84917d721d42e5f4"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "dec5a52502d55acaa36a0b3f21a533a43e392e5bfd7e9053bed347e8dba8b8bc"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-dungeons-villages.pw.toml"
+hash = "60f7d14a75fb39a59925f8ba1d985b4eecfbebc41fd651849c5d94510134737f"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
 metafile = true
