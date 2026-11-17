@@ -1,0 +1,13 @@
+name = "Via Romana Ashen Compat"
+filename = "Via-Romana-Ashen-Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b83c2f9dff8dbfdbc01331abb71babeec7efc937"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9391763
+project-id = 1777438

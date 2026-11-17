@@ -5844,6 +5844,11 @@ hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "fe9176ee4372ed6ed2e4f1b80a20efcd444689de438eca4b29831a15daf9b7dd"
+metafile = true
+
+[[files]]
 file = "mods/deep-dark-regrowth.pw.toml"
 hash = "cb7cf046cc3edf51b45a40f38a4fd3fd6897b66b768eac8cb279580ddb7bd236"
 metafile = true
@@ -5871,16 +5876,6 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "018a734cf769668782dc519d780801640e5e7c5103cf0e3b32805d292c244c0c"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons-seedgen.pw.toml"
-hash = "a1f10f51d558ef0ff513a6677b219596deaadc1b01277c66225c11b3bd69b90e"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
 metafile = true
 
 [[files]]
@@ -6424,6 +6419,10 @@ hash = "77795c52eb118126fde729bc7a60b7fbaeb6af9a97e8760eca7dddad10710326"
 metafile = true
 
 [[files]]
+file = "mods/meridian-1.20.1-Forge-0.3.1.jar"
+hash = "772c86f8d40932cdf3122f1125d766175a170ed124d6dd05b176207b59585866"
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "b9eea39bcf3797fe6221c607070e0910e7425a555afadd60badde8c83932dcbc"
 metafile = true
@@ -6725,7 +6724,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "db9e7a7c65184d213299b2a221b83162f8566069f7cdf543ce14fd2da5cd456b"
+hash = "7f073e56ebad4ad34119c1502b62f9e70526bbe6e8a8550a6bffdaebcda45aa1"
 metafile = true
 
 [[files]]
@@ -6829,6 +6828,11 @@ hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "e55a2c810db11022efc092ab7f2215e23145ee8d2a0bddc60980f9fd04f80d6c"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "021977e176fc928586c7dd6793b788be01a524e7d8547226d30d9ec9c5fb454a"
 metafile = true
@@ -6909,6 +6913,11 @@ hash = "dec5a52502d55acaa36a0b3f21a533a43e392e5bfd7e9053bed347e8dba8b8bc"
 metafile = true
 
 [[files]]
+file = "mods/trmt-reimagined.pw.toml"
+hash = "34bd2a77cf426a8eca5556efabdfcc923d3323ce5b6b5cb68acbbb1c7cbf0989"
+metafile = true
+
+[[files]]
 file = "mods/twilight-forest-cave-fix.pw.toml"
 hash = "f2f982f25427fe7c422e0a0328be8025cc5bb1d67e42fba4ef6b62cda4f3291c"
 metafile = true
@@ -6926,6 +6935,11 @@ metafile = true
 [[files]]
 file = "mods/underlay.pw.toml"
 hash = "77eda19ab7896301987d2e14f67874afe8557a34555b2a8be9e7ee27d88c4808"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "90f8997d48db7a7471027ea93bf94c695a7942cfce73b2fac37330f6d5da0c8d"
 metafile = true
 
 [[files]]
@@ -7199,6 +7213,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/the-rcp.pw.toml"
 hash = "5a9e792f11aa66f7a7e623ac44f903b5cc306e3e0864bc4315554ff28dbe6187"
+metafile = true
+
+[[files]]
+file = "resourcepacks/via-romana-ashen-compat.pw.toml"
+hash = "25d2d1207fed78c775eb694eadbb9493718a1f5cb5ef2dd06f592cd673f27b63"
 metafile = true
 
 [[files]]

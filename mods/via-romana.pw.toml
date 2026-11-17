@@ -1,0 +1,13 @@
+name = "Via Romana: Infrastructure-Driven Fast Travel"
+filename = "via_romana-2.2.3+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a86fc66d23668a896e12468cae4a19c96e66291"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8638805
+project-id = 1026508

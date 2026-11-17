@@ -2,10 +2,6 @@ TODO
 
 TEST: get benchmark of FPS, disable Subtle Effects and rollback Forge version (47.4.8) to see if FPS affected
 
-
-voxy/dh with seedgen
-
-
 jei setting (investigate)
 
 
