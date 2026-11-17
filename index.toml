@@ -5879,6 +5879,11 @@ hash = "018a734cf769668782dc519d780801640e5e7c5103cf0e3b32805d292c244c0c"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "aaead01708723331d49501c399b2b022dc9bdb4bc7e047b3d8a5b6922fbdbc7d"
 metafile = true
@@ -6417,10 +6422,6 @@ metafile = true
 file = "mods/memory-settings.pw.toml"
 hash = "77795c52eb118126fde729bc7a60b7fbaeb6af9a97e8760eca7dddad10710326"
 metafile = true
-
-[[files]]
-file = "mods/meridian-1.20.1-Forge-0.3.1.jar"
-hash = "772c86f8d40932cdf3122f1125d766175a170ed124d6dd05b176207b59585866"
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
