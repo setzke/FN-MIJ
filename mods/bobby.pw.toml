@@ -1,0 +1,13 @@
+name = "Bobby"
+filename = "bobby-5.0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "510663fedcc0c693c24003377e4f54c56f182a2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8417437
+project-id = 409301

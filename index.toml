@@ -5659,6 +5659,16 @@ hash = "dadb84a2306529f1b93c743453bbc0dbc01908788e4ee6389fc0d5432e6f2787"
 metafile = true
 
 [[files]]
+file = "mods/bobby-share.pw.toml"
+hash = "bd2b2264622c73508c8327836228fc0f74360273b57e8d8d87e527989a47c92c"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "2bb9ccfc24846c90abf333080c819f8661722a74521e4ad8fb5941a886b8eb21"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
@@ -5721,6 +5731,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "ef08de66a0bd700968800253c3d35293721ce05d4a221bed7450073e26816fda"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
 metafile = true
 
 [[files]]
@@ -6336,6 +6351,11 @@ metafile = true
 [[files]]
 file = "mods/kurolib.pw.toml"
 hash = "f753ca922ac391972c14f2dcefd33909d2fd26b16cff2c773c4f7cf8c9103ce4"
+metafile = true
+
+[[files]]
+file = "mods/lahatuts-fat-herobrine.pw.toml"
+hash = "b2247715a89993edd1387c359957441b83868ab327ddf4bc385b45700f29d242"
 metafile = true
 
 [[files]]
@@ -7076,6 +7096,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ef4db60c444f141b0bee9a4a063666478467e8594c5b51e864bae98db38753fd"
+
+[[files]]
+file = "readme.md"
+hash = "114719b0c99bc6324b332ead34fdb0cb94402f2079791975b678d3f08646b296"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"

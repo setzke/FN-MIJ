@@ -1,0 +1,13 @@
+name = "Lahatut's Fat Herobrine"
+filename = "lahatut_fat_herobrine-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc08beda6139555ad6b3ae2258e500234049f680"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7304931
+project-id = 1399751
