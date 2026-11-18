@@ -12,16 +12,14 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 My area:
 
 TODO
-*** pack up new stuff and make a server :( ***
-Try out Bobby + Bobby Share + Chunky
-Test Fat Herobrine
 make server.properties & server icon
 separate out server vs client files for packwiz
 custom unsup server ini 
 -no gui
 -auto YES update
 -test if need to force specify SERVER)
-
+Try out Bobby + Bobby Share + Chunky
+Test Fat Herobrine
 
 *Backburner:*
 jei setting (investigate)
