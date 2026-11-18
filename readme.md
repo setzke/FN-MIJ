@@ -17,6 +17,10 @@ Try out Bobby + Bobby Share + Chunky
 Test Fat Herobrine
 make server.properties & server icon
 separate out server vs client files for packwiz
+custom unsup server ini 
+-no gui
+-auto YES update
+-test if need to force specify SERVER)
 
 
 *Backburner:*
