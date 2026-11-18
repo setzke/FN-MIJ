@@ -13,12 +13,15 @@ My area:
 
 TODO
 *** pack up new stuff and make a server :( ***
-TEST: get benchmark of FPS, disable Subtle Effects and rollback Forge version (47.4.8) to see if FPS affected
-
-Test Fat Herobrine
 Try out Bobby + Bobby Share + Chunky
+Test Fat Herobrine
+make server.properties & server icon
+separate out server vs client files for packwiz
 
+
+*Backburner:*
 jei setting (investigate)
+TEST: get benchmark of FPS, disable Subtle Effects and rollback Forge version (47.4.8) to see if FPS affected
 
 
 Failed fabric Homestead hexxy:
