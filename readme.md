@@ -20,8 +20,19 @@ custom unsup server ini
 -test if need to force specify SERVER)
 Try out Bobby + Bobby Share + Chunky
 Test Fat Herobrine
+Look into resource-pack-overrides config
+Investigate config for traveler's titles. Add title for mindscape that isn't "???". Other biomes too if added later. PURPLE OFC.
+-example from the mod page:
+"travelerstitles.minecraft.the_nether": "The Nether",
+"travelerstitles.minecraft.the_nether.color": "ff0000",
+singleplayer or OP test:
+/biometitle <biome>
+/dimensiontitle <dimension>
 
 *Backburner:*
+Look into analytics mod in pack
+Figure out how simple rpc works. Can January set it to STREAMING and have a link to his twitch on Discord? Not needed, but a cool feature.
+
 jei setting (investigate)
 TEST: get benchmark of FPS, disable Subtle Effects and rollback Forge version (47.4.8) to see if FPS affected
 

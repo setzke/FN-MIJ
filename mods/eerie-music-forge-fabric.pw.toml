@@ -1,6 +1,6 @@
 name = "Eerie Music"
 filename = "eeriemusic-1.18.2-1.20.1-1.6.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

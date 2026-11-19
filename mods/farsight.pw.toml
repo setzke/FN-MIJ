@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9360945
 project-id = 495693
+
+[option]
+optional = true
+description = "Bobby exists."

@@ -1,6 +1,6 @@
 name = "Luna"
 filename = "luna_minecraft-forge-5.3.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
