@@ -7272,3 +7272,7 @@ metafile = true
 file = "shaderpacks/supplementaries-compat.pw.toml"
 hash = "b61ae0df078cdd9961fd91013c707373ad84dd30df1bf9386626ae1b6c553260"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "7b92f2b512990617e75f6de965df040ba9042699d129ebf2c3a8511ed3d2440c"
