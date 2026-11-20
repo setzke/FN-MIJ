@@ -1,0 +1,7 @@
+_version = 5
+
+[client]
+	[common.worldGenerator]
+		# DISABLED 
+		# No distant terrain will be generated.
+		generatorPlan = "DISABLED"

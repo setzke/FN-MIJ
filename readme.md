@@ -11,6 +11,17 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 
 My area:
 
+Maybe no DH either... Seedgen Vulkanite may be here before 2026. Stop being spoiled about distance.
+Plus, without these, +stability, +fps, +FINISH ADDING CREATE AND TRY TO GET TESTERS
+
+***have DH disabled by default*** (IN TESTING)
+shenandoah garbage collection args
+\server
+\client
+\\maybe don't bother with client
+
+create
+
 TODO
 make server.properties & server icon
 separate out server vs client files for packwiz
@@ -29,6 +40,8 @@ singleplayer or OP test:
 /biometitle <biome>
 /dimensiontitle <dimension>
 Work on unsup colors.
+
+
 
 
 *Backburner:*

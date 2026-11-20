@@ -2941,6 +2941,10 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "731fbafdece08fab247ff8488e6b5a1a3da21312af3e950b5723a4f9761323f5"
+
+[[files]]
 file = "configureddefaults/config/cosycritters.json"
 hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
@@ -5659,16 +5663,6 @@ hash = "dadb84a2306529f1b93c743453bbc0dbc01908788e4ee6389fc0d5432e6f2787"
 metafile = true
 
 [[files]]
-file = "mods/bobby-share.pw.toml"
-hash = "bd2b2264622c73508c8327836228fc0f74360273b57e8d8d87e527989a47c92c"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "492425c5fa5b274eec056897a80c798aec3f044629e4ebdc915578976762a811"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
@@ -5895,7 +5889,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "07491b34e39e0472858bf469689a782274d32be2dfc5c4080049b624bf2083f2"
+hash = "1b7e4e7be44ca156be5957befe5cb4deffb71327e9d2fe172e6ef22784cc6d63"
 metafile = true
 
 [[files]]
@@ -6031,11 +6025,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "d9a8526d2833985c4c64904819d9b96054f227272668352d751d373e4016fe87"
 metafile = true
 
 [[files]]
