@@ -28,6 +28,8 @@ Investigate config for traveler's titles. Add title for mindscape that isn't "??
 singleplayer or OP test:
 /biometitle <biome>
 /dimensiontitle <dimension>
+Work on unsup colors.
+
 
 *Backburner:*
 Look into analytics mod in pack
