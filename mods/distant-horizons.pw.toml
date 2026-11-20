@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9004753
 project-id = 508933
+
+[option]
+optional = true
+description = "We gonna try out bobby. \nAlso client crashed."

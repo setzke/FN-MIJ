@@ -5895,7 +5895,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
+hash = "07491b34e39e0472858bf469689a782274d32be2dfc5c4080049b624bf2083f2"
 metafile = true
 
 [[files]]
@@ -7240,6 +7240,10 @@ metafile = true
 file = "resourcepacks/via-romana-ashen-compat.pw.toml"
 hash = "25d2d1207fed78c775eb694eadbb9493718a1f5cb5ef2dd06f592cd673f27b63"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "ddd54975ccd66097b6d38e77220ce54923206781b2e9f69064fd9e1e5d988892"
 
 [[files]]
 file = "shaderpacks/Hysteria-Shader-RemainsOfChaos-Edition-v1.0.0.zip.txt"
