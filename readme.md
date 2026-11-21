@@ -14,15 +14,15 @@ My area:
 Maybe no DH either... Seedgen Vulkanite may be here before 2026. Stop being spoiled about distance.
 Plus, without these, +stability, +fps, +FINISH ADDING CREATE AND TRY TO GET TESTERS
 
-***have DH disabled by default*** (IN TESTING)
 shenandoah garbage collection args
-\server
+\server (already did +ZGC or whatever since it's using java 25 but need to make it ready for java 17... I could automate that crap but ugh. Tedious.  Won't be necessary if no DH, or simply remove server optimazations in this way altogether if we can become stable enough to EXIST.
 \client
 \\maybe don't bother with client
 
 create
 
 TODO
+***UNBREAK WHAT YOU BROKE, AND THEN DELETED WITHOUT RECYCLE BIN***
 make server.properties & server icon
 separate out server vs client files for packwiz
 custom unsup server ini 
