@@ -11,6 +11,9 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 
 My area:
 
+# NOTE: Manual pw.toml @ configureddefaults/config/dh-config.pw.toml
+# https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/configureddefaults/config/dh-config.pw.toml
+# https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/pack.toml
 Maybe no DH either... Seedgen Vulkanite may be here before 2026. Stop being spoiled about distance.
 Plus, without these, +stability, +fps, +FINISH ADDING CREATE AND TRY TO GET TESTERS
 
@@ -24,6 +27,7 @@ create
 TODO
 ***UNBREAK WHAT YOU BROKE, AND THEN DELETED WITHOUT RECYCLE BIN***
 >> Removed Chunky (how did I miss it??) *Hopefully that was fix....*
+low priority: distant friends names
 make server.properties & server icon
 separate out server vs client files for packwiz
 custom unsup server ini 

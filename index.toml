@@ -2941,12 +2941,13 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
-file = "configureddefaults/config/DistantHorizons.toml"
-hash = "96d8b66322584e1c6c813987b7bd1264571de2ef86f004f7cb27f342f9bcddd8"
-
-[[files]]
 file = "configureddefaults/config/cosycritters.json"
 hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
+
+[[files]]
+file = "configureddefaults/config/dh-config.pw.toml"
+hash = "a46956c49a91a8c83b0b8be5175f21c040059e5fd0a99ab666c263763f43a290"
+metafile = true
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/mij.png"

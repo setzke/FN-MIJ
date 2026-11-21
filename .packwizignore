@@ -6,3 +6,7 @@
 
 # Exclude github file
 .nojekyll
+
+# Exclude manual github includes
+/configureddefaults/config/DistantHorizons.toml
+
