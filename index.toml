@@ -7233,12 +7233,12 @@ metafile = true
 
 [[files]]
 file = "server-icon.pw.toml"
-hash = "934a8e76977f598dbe5673293b1f213f1342e5100af60a4fd1d2868ef0e99c0b"
+hash = "9f35011cb640fb045a4c13821560fad7c9fe2fb328a36693fa2c75caebe99383"
 metafile = true
 
 [[files]]
 file = "server.properties.pw.toml"
-hash = "00f443c7476641363c32b6ea11e8562783a192e12ce831f0a0530f265e5983a2"
+hash = "2df38b4a6653522045a93c7af9e99d29cc82247174daa333f435fe280c99faae"
 metafile = true
 
 [[files]]
