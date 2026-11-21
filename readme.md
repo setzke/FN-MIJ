@@ -27,6 +27,8 @@ create
 TODO
 ***UNBREAK WHAT YOU BROKE, AND THEN DELETED WITHOUT RECYCLE BIN***
 >> Removed Chunky (how did I miss it??) *Hopefully that was fix....*
+Move files like server.properties to the main github directory, and use .packignore and file.pw.toml for client/server isolation
+
 low priority: distant friends names
 make server.properties & server icon
 separate out server vs client files for packwiz

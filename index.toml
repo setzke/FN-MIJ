@@ -2945,8 +2945,8 @@ file = "configureddefaults/config/cosycritters.json"
 hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
 [[files]]
-file = "configureddefaults/config/dh-config.pw.toml"
-hash = "b53ec64a5fe05c1309e1fb49c5d758d21817e49586ce355416abd3629f232d4e"
+file = "configureddefaults/config/distanthorizons.pw.toml"
+hash = "38e8efaa01066a447befdf46512f268ffec8a12ded0c480cda2cb461369a962d"
 metafile = true
 
 [[files]]
@@ -7229,6 +7229,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/via-romana-ashen-compat.pw.toml"
 hash = "25d2d1207fed78c775eb694eadbb9493718a1f5cb5ef2dd06f592cd673f27b63"
+metafile = true
+
+[[files]]
+file = "server-icon.pw.toml"
+hash = "934a8e76977f598dbe5673293b1f213f1342e5100af60a4fd1d2868ef0e99c0b"
+metafile = true
+
+[[files]]
+file = "server.properties.pw.toml"
+hash = "00f443c7476641363c32b6ea11e8562783a192e12ce831f0a0530f265e5983a2"
 metafile = true
 
 [[files]]

@@ -9,4 +9,6 @@
 
 # Exclude manual github includes
 /configureddefaults/config/DistantHorizons.toml
+/server.properties
+/server-icon.png
 

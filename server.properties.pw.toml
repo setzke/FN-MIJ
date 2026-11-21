@@ -1,0 +1,9 @@
+name = "Server Configuration"
+filename = "server.properties"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/server.properties.pw.toml
+hash-format = "sha256"
+hash = "b33517245d778fd7b5510bd11a77619aea8ecb6cc0f355e980f7f24ccb990e0c"
+
