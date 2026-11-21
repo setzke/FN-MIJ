@@ -1,7 +1,11 @@
 _version = 5
 
 [client]
-	[common.worldGenerator]
-		# DISABLED 
-		# No distant terrain will be generated.
-		generatorPlan = "DISABLED"
+	[client.advanced.debugging]
+		#
+		# What renderer is active? 
+		# 
+		# DEFAULT: Default lod renderer 
+		# DEBUG_TRIANGLE: Debug testing renderer 
+		# DISABLED: Disable rendering
+		rendererMode = "DISABLED"

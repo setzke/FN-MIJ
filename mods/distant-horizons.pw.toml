@@ -14,4 +14,4 @@ project-id = 508933
 
 [option]
 optional = true
-description = "Server has it. You can, too."
+description = "Server has DH. You can, too.\nIf you enable, turn on rendering in DH settings!"

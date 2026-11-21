@@ -2942,7 +2942,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "731fbafdece08fab247ff8488e6b5a1a3da21312af3e950b5723a4f9761323f5"
+hash = "96d8b66322584e1c6c813987b7bd1264571de2ef86f004f7cb27f342f9bcddd8"
 
 [[files]]
 file = "configureddefaults/config/cosycritters.json"
@@ -5889,7 +5889,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "1b7e4e7be44ca156be5957befe5cb4deffb71327e9d2fe172e6ef22784cc6d63"
+hash = "9c078d23494dc5d61238ea6344ba1fca10cd3e809085348acffd81c4e5933837"
 metafile = true
 
 [[files]]
@@ -6375,6 +6375,11 @@ metafile = true
 [[files]]
 file = "mods/localized-chat.pw.toml"
 hash = "8ea9122b11e3ac8c083960dd4e3306179df392825ec26befd692dbd177a1e75e"
+metafile = true
+
+[[files]]
+file = "mods/lodentityrendering.pw.toml"
+hash = "7a77a2dc5497c8279f97918bfc35f8acc3a4b67c4d49c9947cc36e1a1662dc65"
 metafile = true
 
 [[files]]
