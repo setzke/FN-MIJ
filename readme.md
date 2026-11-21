@@ -23,6 +23,7 @@ create
 
 TODO
 ***UNBREAK WHAT YOU BROKE, AND THEN DELETED WITHOUT RECYCLE BIN***
+>> Removed Chunky (how did I miss it??) *Hopefully that was fix....*
 make server.properties & server icon
 separate out server vs client files for packwiz
 custom unsup server ini 
