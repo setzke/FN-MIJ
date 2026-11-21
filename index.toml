@@ -6673,8 +6673,8 @@ hash = "1e5645e7147f3eea828ecd081ea48cb136eff4c744315731fae4cfea51aab9a1"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+file = "mods/radium-re-reforged.pw.toml"
+hash = "9b519ce552db5190b798b67750b122d72d99d41390f9d84ae027b9931577b4a9"
 metafile = true
 
 [[files]]
