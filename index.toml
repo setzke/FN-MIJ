@@ -2946,7 +2946,7 @@ hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
 [[files]]
 file = "configureddefaults/config/dh-config.pw.toml"
-hash = "a46956c49a91a8c83b0b8be5175f21c040059e5fd0a99ab666c263763f43a290"
+hash = "b53ec64a5fe05c1309e1fb49c5d758d21817e49586ce355416abd3629f232d4e"
 metafile = true
 
 [[files]]
