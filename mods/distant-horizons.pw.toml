@@ -13,5 +13,5 @@ file-id = 9004753
 project-id = 508933
 
 [option]
-optional = true
+optional = false
 description = "Server has DH. You can, too.\nIf you enable, turn on rendering in DH settings!"

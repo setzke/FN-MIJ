@@ -2946,7 +2946,7 @@ hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
 [[files]]
 file = "configureddefaults/config/distanthorizons.pw.toml"
-hash = "38e8efaa01066a447befdf46512f268ffec8a12ded0c480cda2cb461369a962d"
+hash = "e85a781e01fdf99294dfb2770fe42d3d9f24ac6f691e249dd36b1710acd2df3f"
 metafile = true
 
 [[files]]
@@ -2960,6 +2960,10 @@ hash = "b026e8505ae1ebb048793aa703b36d42887a7755862a95d0b8278f452b9a85f6"
 [[files]]
 file = "configureddefaults/config/xaerohud.txt"
 hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
+
+[[files]]
+file = "configureddefaults/servers.dat"
+hash = "57e71b570cd179f230a33866f95bfc31ea12a2c965b293d80d027d1668711f5e"
 
 [[files]]
 file = "defaultconfigs/CoroUtil/General.toml"
@@ -5885,7 +5889,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "9c078d23494dc5d61238ea6344ba1fca10cd3e809085348acffd81c4e5933837"
+hash = "f29dbdeebda9f6670327906e15cabd2f728258ac31b1b5be141ce1e89f716b96"
 metafile = true
 
 [[files]]

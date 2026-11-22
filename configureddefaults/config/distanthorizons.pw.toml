@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/configureddefaults/config/DistantHorizons.toml"
 hash-format = "sha256"
-hash = "96d8b66322584e1c6c813987b7bd1264571de2ef86f004f7cb27f342f9bcddd8"
+hash = "81d89d63f2e3a295616745b31b9bc3f482a79b2cce26db321b7cc1cc890db506"
