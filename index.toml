@@ -5474,6 +5474,10 @@ file = "defaultconfigs/zombieawareness/PlayerRulesAndLists.toml"
 hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
+file = "dummyfile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/Teraphobia-RoC-2.1.0.jar"
 hash = "a17881eac482eea28b245ca326466f280ab579dcdc059856d782d73087385fbe"
 
