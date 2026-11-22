@@ -8,16 +8,10 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Curse
 https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism.zip
 
 
+<details>
+<summary>My area:</summary>
 
-My area:
-
-# NOTE: Manual pw.toml @ configureddefaults/config/dh-config.pw.toml
-# https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/configureddefaults/config/dh-config.pw.toml
-# https://raw.githubusercontent.com/setzke/FN-MIJ-dev/refs/heads/main/pack.toml
-Maybe no DH either... Seedgen Vulkanite may be here before 2026. Stop being spoiled about distance.
-Plus, without these, +stability, +fps, +FINISH ADDING CREATE AND TRY TO GET TESTERS
-
-shenandoah garbage collection args
+shenandoah garbage collection args for distant horizons.
 \server (already did +ZGC or whatever since it's using java 25 but need to make it ready for java 17... I could automate that crap but ugh. Tedious.  Won't be necessary if no DH, or simply remove server optimazations in this way altogether if we can become stable enough to EXIST.
 \client
 \\maybe don't bother with client
@@ -54,6 +48,8 @@ Work on unsup colors.
 *Backburner:*
 Look into analytics mod in pack
 Figure out how simple rpc works. Can January set it to STREAMING and have a link to his twitch on Discord? Not needed, but a cool feature.
+clean up server vs client files (options and servers.dat aren't needed in server)
+
 
 jei setting (investigate)
 TEST: get benchmark of FPS, disable Subtle Effects and rollback Forge version (47.4.8) to see if FPS affected
@@ -64,3 +60,5 @@ cardinal components api
 hexcassettes
 hexical
 hextended
+
+</details>
