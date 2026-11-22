@@ -11,6 +11,7 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 
 <details>
 <summary>My personal area:</summary>  
+
 # TODO:  
 - add CREATE
 
@@ -51,6 +52,6 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 cardinal components api\
 hexcassettes\
 hexical\
-hextended\
+hextended
 
 </details>
