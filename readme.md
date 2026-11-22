@@ -19,6 +19,8 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 # TODO:  
 - add CREATE
 
+- add dh instructions
+
 - nogui server test  
   - does pack auto-update a change with nogui? (try to override OPs or something after changing it in game. also have 2 dummy files. With the update test, modify one, remove the other, and add a 3rd.)
 

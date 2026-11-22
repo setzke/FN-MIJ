@@ -5475,7 +5475,7 @@ hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
 file = "dummyfile.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "35cd3a1c2160994c1cf535edf687ca8665d3fbcafd5a31de0fc8d6307285fb4d"
 
 [[files]]
 file = "mods/Teraphobia-RoC-2.1.0.jar"
