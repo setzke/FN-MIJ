@@ -6688,12 +6688,12 @@ metafile = true
 
 [[files]]
 file = "mods/ragdollified-reactions.pw.toml"
-hash = "6461ffa3d0671bbf415cf555d89449ef476a7ae228f27a9a075845ef439f1f75"
+hash = "73711cbf85ba1fac00025a47fe697ffaf4c8b7271d9af7737bd839d513f52f54"
 metafile = true
 
 [[files]]
 file = "mods/ragdollified.pw.toml"
-hash = "088463423a6eaad5943f185e2ba76313fd6fa54ac4ada6c762034bc09b42c0aa"
+hash = "68f634be5cbc44e77ab99b9fa782b5d29dbf4bade0a9f9208491e838d90a0407"
 metafile = true
 
 [[files]]
