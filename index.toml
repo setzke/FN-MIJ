@@ -6683,7 +6683,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragdollified-player-revive-drag.pw.toml"
-hash = "a9b1e1e339d57caf69c5192047fbae3036892a8a89aefb99a8b3496f883ec91f"
+hash = "4cafdf74688a467392bccb9e6daead77814467c582fd7e49e8c17f6cd51d5596"
 metafile = true
 
 [[files]]
@@ -6933,7 +6933,7 @@ metafile = true
 
 [[files]]
 file = "mods/trmt-reimagined.pw.toml"
-hash = "34bd2a77cf426a8eca5556efabdfcc923d3323ce5b6b5cb68acbbb1c7cbf0989"
+hash = "d76a504fac501858ecd0af5f98c864f43d102f62ca33bd6818073d7e0f372f0f"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "TRMT: Reimagined (The Roads More Travelled)"
-filename = "trmtr-1.20.1-0.9.228-forge.jar"
+filename = "trmtr-1.20.1-1.0.0-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "821ef13ae974e450e942ab859c2ef74a8a39d96e"
+hash = "3d645594df53cb582f49eb68a0257fad9e20df1f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9350763
+file-id = 9725470
 project-id = 1725455

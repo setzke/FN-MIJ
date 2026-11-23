@@ -1,13 +1,13 @@
 name = "Ragdollified Player Revive/Drag"
-filename = "ragdollifiedpr-1.20.1-0.1.5-BETA.jar"
+filename = "ragdollifiedpr-forge-1.20.1-0.1.7-BETA.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "464cb11d90c56369c32b73adb3d6f68de6cee58f"
+hash = "ee0183089b55137a741c44703298897cb0b1c2b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9022439
+file-id = 9603613
 project-id = 1649315
