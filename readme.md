@@ -18,8 +18,13 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 <summary>My personal area:</summary>  
 
 # TODO:  
-- UPLOAD RENAMED ZIPs
-- remove seedgen
+- check if touch'n motion pevents leaning mod.
+  - if so, set as optional
+  - if so, report compat bug
+  
+- should we add hamsters?
+  https://modrinth.com/mod/adorable-hamster-pets
+  
 - stabilize joining with dh
 - prove it's dh's fault
 
