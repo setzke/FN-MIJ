@@ -1,0 +1,8 @@
+name = "Horizons Reshowing"
+filename = "file"
+side = "both"
+
+[download]
+url = "https://www.patreon.com/file?h=175184207&m=783230142"
+hash-format = "sha256"
+hash = "39ca072b6636c15868f8ace50394a8270b172cbdf0bf666166bfe27aa8e04771"

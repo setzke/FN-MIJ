@@ -2963,7 +2963,7 @@ hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "configureddefaults/servers.dat"
-hash = "57e71b570cd179f230a33866f95bfc31ea12a2c965b293d80d027d1668711f5e"
+hash = "63be27c2accf0b63d19aa71fa5e864b8a15dbc00e88a0211d96f954541d32476"
 
 [[files]]
 file = "defaultconfigs/CoroUtil/General.toml"
@@ -5474,6 +5474,10 @@ file = "defaultconfigs/zombieawareness/PlayerRulesAndLists.toml"
 hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
+file = "desktop.ini"
+hash = "7c926bddc3d125fee4632bdee2ba69fba4f33ae2289b378b929d4f8a5a2e8d8e"
+
+[[files]]
 file = "dummyfile.txt"
 hash = "da33f71507120e66872fcfb5fbaa17a30bbefe46e551cb00ca17e33cac284fac"
 
@@ -5962,6 +5966,11 @@ hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
 metafile = true
 
 [[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "8c1d69d7503128de53982d865372c58c5a5dbc1d82856ba6713c7e47a6d00cbc"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "e4c69a3551a4343fc76fb135266aecac0042863693f04d2c58a26c71b6e988d9"
 metafile = true
@@ -6199,6 +6208,11 @@ metafile = true
 [[files]]
 file = "mods/hexkeys.pw.toml"
 hash = "fc6c87f08d915f67fa550aab663baca46b4580c4d56bbce819d81c4f84c35f03"
+metafile = true
+
+[[files]]
+file = "mods/horizons-reshowing.pw.toml"
+hash = "29b62d8ce837ec5b9bc57451be005061656433b59b1ad0334b54a787a337f917"
 metafile = true
 
 [[files]]
@@ -6909,6 +6923,11 @@ metafile = true
 [[files]]
 file = "mods/time-control.pw.toml"
 hash = "0c8243213ccc212ee1080704ae35fde4078f9be34695d152126fdb4226a64735"
+metafile = true
+
+[[files]]
+file = "mods/touch-and-motion.pw.toml"
+hash = "c55323f156efd6ed8a3aca0ad369b1704f9365f907dbfb1e42e77c0d757d0b45"
 metafile = true
 
 [[files]]

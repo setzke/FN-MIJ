@@ -17,12 +17,23 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism
 <summary>My personal area:</summary>  
 
 # TODO:  
+- UPLOAD RENAMED ZIPs
+- FIX ZIP LINKS
+
 - add CREATE
 
 - add dh instructions
 
 - nogui server test  
   - does pack auto-update a change with nogui? (try to override OPs or something after changing it in game. also have 2 dummy files. With the update test, modify one, remove the other, and add a 3rd.)
+
+
+oh yeah add my 3rd person perspective mod as an optional on first launc
+Include the remote URL as a default server
+kick yourself for forgetting the other thing
+oh yeah add my 3rd person perspective mod as an optional on first launch
+make a note to test butchery if others experience the no world loaded error and have similar log results
+look into horizons reshowing, if the streams mod is streams reflowing or whatever. Look into it. Could fix some issues that weren't directly spelled out
 
 ## *low priority:*  
 - distant friends names  
