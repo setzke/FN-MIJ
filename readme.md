@@ -42,6 +42,9 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 
 - look into fixing lod entity rendering later
 
+- Appleskin,
+  - Appleskin resource pack
+
 ## *low priority:*  
 - distant friends names  
 - Look into resource-pack-overrides config  

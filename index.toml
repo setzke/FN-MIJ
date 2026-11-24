@@ -5550,6 +5550,11 @@ hash = "9c58cfc7db7a2832b35153e9b1ca337d051c812a29ebeb0324bb0980146c516f"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -7106,7 +7111,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ef4db60c444f141b0bee9a4a063666478467e8594c5b51e864bae98db38753fd"
+hash = "e60f22853940c37512ea8839b2d5d2f25b838cb2e0f0b8b84691dd4ac3ad3c7d"
 
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
@@ -7125,6 +7130,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/ashen-16x.pw.toml"
 hash = "614418ba8d7a7f258cb86a61a6e98b34f46d87f4b6691dee05dc9ffbf27e663e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ashen-appleskin-support.pw.toml"
+hash = "ad161d0528839826eee152ea87cccdd45d96bc48fc62b59c46fc0586e8d50fd2"
 metafile = true
 
 [[files]]
