@@ -19,7 +19,9 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 
 # TODO:  
 - UPLOAD RENAMED ZIPs
-- FIX ZIP LINKS
+- remove seedgen
+- stabilize joining with dh
+- prove it's dh's fault
 
 - add CREATE
 
