@@ -5482,6 +5482,10 @@ file = "dummyfile.txt"
 hash = "da33f71507120e66872fcfb5fbaa17a30bbefe46e551cb00ca17e33cac284fac"
 
 [[files]]
+file = "mods/HorizonsReshowing-1.20.1-forge-0.1.3.jar"
+hash = "f4e60080a03ed23d40a8f3de31ca04f8aac2fca6170ffeaa752bc75a50ed8f50"
+
+[[files]]
 file = "mods/Teraphobia-RoC-2.1.0.jar"
 hash = "a17881eac482eea28b245ca326466f280ab579dcdc059856d782d73087385fbe"
 
@@ -6208,11 +6212,6 @@ metafile = true
 [[files]]
 file = "mods/hexkeys.pw.toml"
 hash = "fc6c87f08d915f67fa550aab663baca46b4580c4d56bbce819d81c4f84c35f03"
-metafile = true
-
-[[files]]
-file = "mods/horizons-reshowing.pw.toml"
-hash = "29b62d8ce837ec5b9bc57451be005061656433b59b1ad0334b54a787a337f917"
 metafile = true
 
 [[files]]
