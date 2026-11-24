@@ -2946,7 +2946,7 @@ hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
 [[files]]
 file = "configureddefaults/config/distanthorizons.pw.toml"
-hash = "e85a781e01fdf99294dfb2770fe42d3d9f24ac6f691e249dd36b1710acd2df3f"
+hash = "e5784ca9bedd746c739db967b8e342eab759175bb60a40dbc0ae76c6e0f77d33"
 metafile = true
 
 [[files]]
