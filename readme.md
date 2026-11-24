@@ -9,8 +9,9 @@ https://www.curseforge.com/minecraft/modpacks/fear-nightfall/files/9389072
 *** Additionally, if you run the CurseForge profile one time before adding the above argument, default keybinds and some other pre-set settings will not occur. Recommended to delete the profile and start again. ***
 
 ### Zips:  
-https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.CurseForge.zip  
-https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.base.Prism.zip
+https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.CurseForge.zip  
+https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Prism.zip  
+https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip  
   
   
 <details>
