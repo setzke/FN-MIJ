@@ -6370,11 +6370,6 @@ hash = "b2247715a89993edd1387c359957441b83868ab327ddf4bc385b45700f29d242"
 metafile = true
 
 [[files]]
-file = "mods/leaning-or-not.pw.toml"
-hash = "eb95c1f38b1460ccad9a4799f8f5019cc76196490d4b5b23a196c4929c848955"
-metafile = true
-
-[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "de05b89fa3dcbba78114f1616a1852310873858de33671ba0ec5127c5dd88135"
 metafile = true
