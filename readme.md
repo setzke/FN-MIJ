@@ -29,6 +29,8 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 
 - test butchery if others experience the no world loaded error and have similar log results
 
+- look into fixing lod entity rendering later
+
 ## *low priority:*  
 - distant friends names  
 - Look into resource-pack-overrides config  

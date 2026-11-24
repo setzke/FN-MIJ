@@ -6395,11 +6395,6 @@ hash = "8ea9122b11e3ac8c083960dd4e3306179df392825ec26befd692dbd177a1e75e"
 metafile = true
 
 [[files]]
-file = "mods/lodentityrendering.pw.toml"
-hash = "7a77a2dc5497c8279f97918bfc35f8acc3a4b67c4d49c9947cc36e1a1662dc65"
-metafile = true
-
-[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
