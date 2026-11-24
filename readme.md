@@ -25,6 +25,12 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 - should we add hamsters?
   https://modrinth.com/mod/adorable-hamster-pets
   
+- look into Punchy or Hold My Items (per Touch'nMot)
+  - do we have better combat? Punchy recommends a resource pack for modded weapons
+  - do these mods allow for modded clothes that show on arm?
+  
+
+  
 - stabilize joining with dh
 - prove it's dh's fault
 
