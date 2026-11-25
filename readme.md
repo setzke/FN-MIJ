@@ -18,32 +18,23 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 <summary>My personal area:</summary>  
 
 # TODO:  
-- check if touch'n motion pevents leaning mod.
-  - if so, set as optional
-  - if so, report compat bug
+  
+- PUNCHY first.
+Are all the EMF compats needed? WATUT, etc. 
   
 - should we add hamsters?
   https://modrinth.com/mod/adorable-hamster-pets
   
+See mod list of what was added to last pack... ugh start making choices. Remember, your players can request things later to be added!
+  
 - look into Punchy or Hold My Items (per Touch'nMot)
   - do we have better combat? Punchy recommends a resource pack for modded weapons
   - do these mods allow for modded clothes that show on arm?
-  
-
-  
-- stabilize joining with dh
-- prove it's dh's fault
 
 - add CREATE
 
 -oh yeah add my 3rd person perspective mod as an optional on first launc
 
-- test butchery if others experience the no world loaded error and have similar log results
-
-- look into fixing lod entity rendering later
-
-- Appleskin,
-  - Appleskin resource pack
 
 ## *low priority:*  
 - distant friends names  
@@ -57,7 +48,7 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
     /dimensiontitle <dimension>  
 - Work on unsup colors.  
 
-
+- clean up more server vs client files (options and servers.dat aren't needed in server)
 
 
 ## *Backburner:*  
@@ -65,14 +56,11 @@ https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip
 
 - Figure out how simple rpc works. Can January set it to STREAMING and have a link to his twitch on Discord? Not needed, but a cool feature.  
 
-- clean up server vs client files (options and servers.dat aren't needed in server)
-
 - garbage collection for DH for client if needed  
 (server exists, but that was for java 25. Would other servers have java 17? Should it adapt to version? Can java handle just throwing each one at it? Look into garbage collection.)
   - Client is java 17 and needs shenandoah, if any
 
 - jei setting (investigate)  
-- TEST: get benchmark of FPS, disable Subtle Effects and rollback Forge version (47.4.8) to see if FPS affected
 
 ----
 ### Failed fabric Homestead hexxy:  
