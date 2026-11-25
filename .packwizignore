@@ -12,3 +12,6 @@
 /server.properties
 /server-icon.png
 
+# Excludes windows folder icon config
+desktop.ini
+
