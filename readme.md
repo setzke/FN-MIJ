@@ -3,70 +3,23 @@ This repository is my actively building a pack to practice/learn Github and pack
 Original modpack base is from here:  
 https://www.curseforge.com/minecraft/modpacks/fear-nightfall/files/9389072
 
-*** The CurseForge zip will contain no mods unless you edit the profile and add the following java argument: ***  
+***The CurseForge zip will contain no mods unless you edit the profile and add the following java argument:***  
 `-javaagent=unsup.jar`
 
-*** Additionally, if you run the CurseForge profile one time before adding the above argument, default keybinds and some other pre-set settings will not occur. Recommended to delete the profile and start again. ***
+***Additionally, if you run the CurseForge profile one time before adding the above argument, default keybinds and some other pre-set settings will not occur. Recommended to delete the profile and start again.***
 
 ### Zips:  
-https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.CurseForge.zip  
-https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Prism.zip  
-https://github.com/setzke/FN-MIJ-dev/releases/download/zip/FN-MIJ-dev.Server.zip  
+https://github.com/setzke/FN-MIJ/releases/download/zip/FN-MIJ.CurseForge.zip  
+https://github.com/setzke/FN-MIJ/releases/download/zip/FN-MIJ.Prism.zip  
+https://github.com/setzke/FN-MIJ/releases/download/zip/FN-MIJ.Server.zip  
   
   
 <details>
-<summary>My personal area:</summary>  
+<summary>What's New, Scooby Doo?:</summary>  
+At the time of this release, dev repo is about to add a bunch of content mods, which could break many things. As I don't understand GitHub much, I figured throwing out a stable release was a better way to backtrack rather than this point in time getting lost in the innumerable small commits that are about to occu
 
-# TODO:  
-  
-- PUNCHY first.
-Are all the EMF compats needed? WATUT, etc. 
-  
-- should we add hamsters?
-  https://modrinth.com/mod/adorable-hamster-pets
-  
-See mod list of what was added to last pack... ugh start making choices. Remember, your players can request things later to be added!
-  
-- look into Punchy or Hold My Items (per Touch'nMot)
-  - do we have better combat? Punchy recommends a resource pack for modded weapons
-  - do these mods allow for modded clothes that show on arm?
+In short, this is a (hopefully) stable version of the modpack. My friends have not been able to help me test, yet.
+About to add Punchy, a bunch of compats for EMF to help with punchy (if needed, will test first. Curious how the compat will effect Touch and Move or if that has baked in compats)... a whole bunch of Create needs added... my list says 139 mods but many of those aren't going in. That's just the list of what went into the last one that differs from their original pack that isn't in this pack yet. But also libraries, equivalent mods, etc... hasn't been filtered, yet. 
 
-- add CREATE
-
--oh yeah add my 3rd person perspective mod as an optional on first launc
-
-
-## *low priority:*  
-- distant friends names  
-- Look into resource-pack-overrides config  
-- Investigate config for traveler's titles. Add title for mindscape that isn't "???". Other biomes too if added later. PURPLE OFC.  
-  - example from the mod page:  
-    "travelerstitles.minecraft.the_nether": "The Nether",  
-    "travelerstitles.minecraft.the_nether.color": "ff0000",  
-    singleplayer or OP test:  
-    /biometitle <biome>  
-    /dimensiontitle <dimension>  
-- Work on unsup colors.  
-
-- clean up more server vs client files (options and servers.dat aren't needed in server)
-
-
-## *Backburner:*  
-- Look into analytics mod in pack
-
-- Figure out how simple rpc works. Can January set it to STREAMING and have a link to his twitch on Discord? Not needed, but a cool feature.  
-
-- garbage collection for DH for client if needed  
-(server exists, but that was for java 25. Would other servers have java 17? Should it adapt to version? Can java handle just throwing each one at it? Look into garbage collection.)
-  - Client is java 17 and needs shenandoah, if any
-
-- jei setting (investigate)  
-
-----
-### Failed fabric Homestead hexxy:  
-cardinal components api\
-hexcassettes\
-hexical\
-hextended
-
+As that "in short" was long, in shorter short: this is my tucked away checkpoint before I add way more meat to the stew.
 </details>
