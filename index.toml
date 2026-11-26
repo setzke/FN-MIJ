@@ -2946,7 +2946,7 @@ hash = "196b9a9c022bfa77cfd97cdadc40c40853ddead525954353003dac3c2dcb675c"
 
 [[files]]
 file = "configureddefaults/config/distanthorizons.pw.toml"
-hash = "e5784ca9bedd746c739db967b8e342eab759175bb60a40dbc0ae76c6e0f77d33"
+hash = "62bd66ec8b618e15c4750ebf244f9b603debf4bd8a7bc12ffc8c251b7b3c06f5"
 metafile = true
 
 [[files]]
@@ -7255,12 +7255,12 @@ metafile = true
 
 [[files]]
 file = "server-icon.pw.toml"
-hash = "1c60751f48250d7385d0949e0982ddf453c2a91f19f1fdcbf19460f006badc96"
+hash = "a76211686b7c6df00a1eccd11d841dc452c688456707ea6bc33694371c9b407a"
 metafile = true
 
 [[files]]
 file = "server.properties.pw.toml"
-hash = "1c522a46df2550a60e7ce830a9b4ed40b19e922cc96c2973fd9f61f3b720b6f9"
+hash = "9fae0b6bc5dcb883a2ed82365f7f89c89d51a2cf006db2c82e8146ade8d4e951"
 metafile = true
 
 [[files]]
